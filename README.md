@@ -12,7 +12,7 @@ I'm a **Mechanical Engineering student** at VIIT Pune (CGPA: 8.6/10), passionate
 - **Specializations:** Generative Design, Topology Optimization, Pneumatic Systems
 
 ## 🏆 Featured Projects
-- 🏀 **ROBOCON 2025** - Basketball Robot with 2-DOF Flywheel Shooter
+- 🏀 **ROBOCON 2025** 
 - 🚀 **ISRO Rover Challenge** - Generative Rocker Bogie Chassis  
 - 🏭 **IFM Autonomous Robot** - Pallet Transport System
 - 🦾 **3D Printed Exoskeleton** - Rehabilitation Assist Device
@@ -20,7 +20,7 @@ I'm a **Mechanical Engineering student** at VIIT Pune (CGPA: 8.6/10), passionate
 
 ## 💼 Leadership Experience
 **President | Vishwakarma Robotics Club**
-- Leading 100+ member robotics club at VIIT Pune
+- Leading 30+ member robotics club at VIIT Pune
 - Organizing technical workshops and competition training
 - Mentoring junior students in robotics and mechanical design
 
