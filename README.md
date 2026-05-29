@@ -1,5 +1,28 @@
 # Hi there, I'm Sushant Koul! 👋
 
+🚀 About Me
+Mechanical Engineering student at VIIT Pune (CGPA: 8.6) passionate about robotics, mechanical design, and automation. Currently President of the Vishwakarma Robotics Club, focused on building robotics systems and solving real-world engineering problems.
+
+🛠️ Skills
+• CAD & Design: Fusion 360, SolidWorks, CATIA V5
+• Simulation: CFD & Structural Analysis (ANSYS, Fusion 360)
+• Robotics: Arduino, Sensors, Control Systems
+• Manufacturing: 3D Printing, DFM, Pneumatics
+
+🏆 Key Projects
+• ROBOCON 2025 – Basketball Robotics System
+• ISRO Rover Challenge – Generative Rocker Bogie Chassis
+• IFM Autonomous Robot – Pallet Transport System
+• 3D Printed Exoskeleton – Rehabilitation Assist Device
+• Robotics Projects – Line Follower, RC Car, Robotic Arm
+
+💼 Leadership
+President | Vishwakarma Robotics Club
+• Leading robotics projects, workshops, and competition teams
+• Mentoring students in robotics and mechanical design
+
+🎯 Goal
+Design reliable and practical engineering solutions in robotics and automation.
 ## 🚀 About Me
 I'm a **Mechanical Engineering student** at VIIT Pune (CGPA: 8.6/10), passionate about **robotics and design automation**.President of the Vishwakarma Robotics Club,
 **🎯 Career Goal:** Mechanical Design Engineer in Robotics & Automation
